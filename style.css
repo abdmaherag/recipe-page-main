@@ -2,6 +2,7 @@ body{
     font-family: 'Outfit','Young Serif';
     background-color: #f3e5d8;
 }
+/* text color styling */
 section{
     background-color: hsl(0, 0%, 100%);
     padding: 32px;
