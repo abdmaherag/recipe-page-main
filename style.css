@@ -33,3 +33,17 @@ p,
     color: hsl(332, 51%, 32%);
     font-weight: 700;
 }
+.preparation-container{
+    background-color: hsl(332, 51%, 93%);
+    padding: 18px;
+    border-radius: 8px;
+
+
+}
+li span{
+    position: relative;
+    left:20px
+}
+li::marker{
+    font-size: 12px;
+}
