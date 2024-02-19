@@ -32,18 +32,30 @@ p,
 .box-text{
     color: hsl(332, 51%, 32%);
     font-weight: 700;
+    padding-left: 20px;
 }
 .preparation-container{
     background-color: hsl(332, 51%, 93%);
     padding: 18px;
     border-radius: 8px;
-
-
 }
-li span{
+ul li span{
     position: relative;
     left:20px
 }
-li::marker{
+ul li::marker{
     font-size: 12px;
+}
+li{
+    margin-top: 10px;
+}
+ol li span{
+    position: relative;
+    left:8px
+}
+table{
+    border-spacing: 10px;
+}
+.cell-1{
+    padding-right: 200px;
 }
