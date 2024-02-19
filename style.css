@@ -13,3 +13,22 @@ img{
     width: 630px;
     border-radius: 18px;
 }
+h1,
+h2{
+    font-family: 'Young Serif';
+    font-weight: 400;
+}
+h2,
+li::marker,
+.cell-2{
+    color:hsl(14, 45%, 36%);
+}
+li,
+p,
+.cell-1{
+    color: hsl(30, 10%, 34%);
+}
+.box-text{
+    color: hsl(332, 51%, 32%);
+    font-weight: 700;
+}
